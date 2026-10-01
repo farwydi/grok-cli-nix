@@ -1,13 +1,13 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.46",
   "systems": {
     "x86_64-linux": {
       "target": "linux-x86_64",
-      "hash": "sha256-92Qxhz78XIpQiS0eEkfq7iP2ZkvKOF+9VaBqjn08rtw="
+      "hash": "sha256-QWJqUykjJBQLklVrnUL/VULj3NBK/4Xq+4aJ3UrbRPw="
     },
     "aarch64-linux": {
       "target": "linux-aarch64",
-      "hash": "sha256-oxUG1ztEVLv3DDwoIeQaBC+ng4BYuhsnGwCakm0XUjk="
+      "hash": "sha256-RbCUPnNvAKJJuc8Cryvp4HSdl8Cab1XPzzApoag28j4="
     }
   }
 }
